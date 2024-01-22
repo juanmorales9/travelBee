@@ -228,10 +228,7 @@ $ npm run dev
 
 ## :busts_in_silhouette: Authors
 
-- **Fiumana**, Valentina [@valenfiumana](https://www.github.com/valenfiumana)
-- **Urriza**, Gisela [@Gigi-U](https://www.github.com/Gigi-U)
-- **Marienhoff**, Iván [@ivanM](https://github.com/ivanhoff)
-- **Del Litto**, Segundo [@segudellito](https://www.github.com/segudl01) - 
+
 
 <br/> 
 
